@@ -8,3 +8,5 @@ Emphasize (bold) = **bold text**
 
 Bullet list = (n.)
 Separate quote lines = (> )
+
+Markdown language uses **basic text** and **symbols** that are deciphered by a **parser** to present output as **formatted text**
