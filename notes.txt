@@ -1,0 +1,10 @@
+Markdown Language
+
+Headers:
+H1 = =====
+H2 = -----
+
+Emphasize (bold) = **bold text**
+
+Bullet list = (n.)
+Separate quote lines = (> )
