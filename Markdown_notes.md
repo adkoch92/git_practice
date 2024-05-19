@@ -31,7 +31,9 @@ Emphasize (bold) = **bold text**
 Bullet list = (n.)
 Separate quote lines = (> )
 
-For more basic Markdown syntax, visit CommonMark's Reference guide at:
-https://commonmark.org/help/
+For more basic Markdown syntax, visit [CommonMark's Reference guide](https://commonmark.org/help/)
 
+Markdown and GitHub syntax information:
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Markdown Cheatsheat -- GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
