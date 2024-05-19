@@ -16,8 +16,10 @@ While Markdown language **does not** require any specific file ending (.txt is t
 
 Headers:
 -------
-H1 = =====
-H2 = -----
+H1 = "====="
+
+H2 = "-----"
+
 Headers can also be simulated using the "#" symbol
 
 > # H1 Heading
@@ -25,10 +27,11 @@ Headers can also be simulated using the "#" symbol
 > ### H3 Heading
 > ####... and so on and so forth
 
-Emphasize (bold) = **bold text**
-----------------
+Emphasize "**bold text**"
+---------
 
 Bullet list = (n.)
+
 Separate quote lines = (> )
 
 For more basic Markdown syntax, visit [CommonMark's Reference guide](https://commonmark.org/help/)
