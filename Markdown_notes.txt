@@ -1,0 +1,39 @@
+Markdown Language
+=================
+
+Markdown language uses **basic text** and **symbols** that are deciphered by a **parser** to present output as **formatted text**
+
+> Freely available Markdown parsers include:
+> 1. StackEdit.io
+> 2. Dillinger
+> 3. Parse
+> 4. Markdown to HTML converter
+> the above demonstrates both quoted line format "> " and numbered lists "n. "
+> additionally, Markdown uses the "*" symbol for bulleted lists.
+> in order to simulate a nested list (list within a list), Markdown requires the addition of a new line followed by 4 spaces or 1 tab to add paragraphs between list items
+
+While Markdown language **does not** require any specific file ending (.txt is totally fine--or literally any random file extension), **GitHub** prefers that markdown files are saved using **.md** or **.markdown** extensions.
+
+Headers:
+-------
+H1 = =====
+H2 = -----
+Headers can also be simulated using the "#" symbol
+
+> # H1 Heading
+> ## H2 Heading
+> ### H3 Heading
+> ####... and so on and so forth
+
+Emphasize (bold) = **bold text**
+----------------
+
+Bullet list = (n.)
+Separate quote lines = (> )
+
+For more basic Markdown syntax, visit [CommonMark's Reference guide](https://commonmark.org/help/)
+
+Markdown and GitHub syntax information:
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Markdown Cheatsheat -- GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+

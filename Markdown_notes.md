@@ -16,8 +16,10 @@ While Markdown language **does not** require any specific file ending (.txt is t
 
 Headers:
 -------
-H1 = =====
-H2 = -----
+H1 = "====="
+
+H2 = "-----"
+
 Headers can also be simulated using the "#" symbol
 
 > # H1 Heading
@@ -25,13 +27,16 @@ Headers can also be simulated using the "#" symbol
 > ### H3 Heading
 > ####... and so on and so forth
 
-Emphasize (bold) = **bold text**
-----------------
+Emphasize "**bold text**"
+---------
 
 Bullet list = (n.)
+
 Separate quote lines = (> )
 
-For more basic Markdown syntax, visit CommonMark's Reference guide at:
-https://commonmark.org/help/
+For more basic Markdown syntax, visit [CommonMark's Reference guide](https://commonmark.org/help/)
 
+Markdown and GitHub syntax information:
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Markdown Cheatsheat -- GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
